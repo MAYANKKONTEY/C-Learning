@@ -71,3 +71,11 @@ int main() {
   return 0;
 }
 
+// Qution calculating area of a circle
+// formula a = pi * r'2
+int main() {
+  float r = 4.3;
+  float a = 3.1415*r*r;
+  cout<<a;
+  return 0;
+}
