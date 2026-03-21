@@ -56,3 +56,18 @@ int main() {
   cout<<x/y<<endl;
   return 0;
 }
+
+int main() {
+  //post increment
+  int x = 4;
+  cout<<x<<endl;
+  cout<<x++<<endl;
+  cout<<x<<endl;
+  //pre increment
+  int x = 4 
+  cout<<x,,endl;
+  cout<<++x<<endl;
+  cout<<x<<endl;
+  return 0;
+}
+
