@@ -6,7 +6,7 @@ int main() {
 // /?  cout<<"Hello Pw""\n";
   cout<<4+3<<endl;
   cout<<4-3<<endl;
-  cout<<4*3<<endl;
+  
   cout<<8/4<<endl;
   
   return 0;
